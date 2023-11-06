@@ -1,0 +1,17 @@
+:root {
+  
+  /* Font Stack */
+  --p-font: 'Public Sans', sans-serif;
+  --s-font: 'Libre Baskerville', sans-serif;
+
+  /* Primary Colors */
+  --b-color: #1b1b1b; /* bg */
+  --s-color: #222222; /* secondary */
+  --l-color: #308fe7; /* link */
+
+  /* Font Colors */
+  --f-color: #dfdcdb; /* primary */
+  --fs-color: #c9c9c9; /* secondary */
+  --h-color: #f16114; /* highlight */
+
+}

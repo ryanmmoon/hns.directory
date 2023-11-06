@@ -1,0 +1,13 @@
+.index .links {
+  padding: 1rem;
+
+  p {
+    display: inline-block;
+    margin: 0 2rem 0 0;
+    
+    a {
+      color: var(--l-color);
+      font-weight: 500;
+    }
+  }
+}

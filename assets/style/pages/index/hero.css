@@ -1,0 +1,36 @@
+.index .hero {
+
+  .logo {
+    display: grid;
+    grid-template-columns: 3.75rem calc(100% - 3.75rem);
+    grid-template-rows: 1.65rem 2rem;
+    margin: 1rem 0 1rem .45rem;
+
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+    
+    .directory {
+      grid-row: 1/3;
+      color: var(--h-color);
+      font-size: 3.35rem;
+      padding: .15rem 0 0 .25rem;
+    }
+
+    .hns,
+    .dir {
+      grid-column: 2;
+      color: var(--ft-color);
+      font-family: var(--p-font);
+      font-size: 1.5rem;
+      font-weight: 800;
+      padding: 0;
+    }
+
+    .hns {
+      line-height: 2.25rem;
+    }
+  }
+}

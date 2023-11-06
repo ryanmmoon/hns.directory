@@ -1,0 +1,24 @@
+.index .resolvers {
+
+  h2 {
+    font-family: var(--s-font);
+    font-weight: 700;
+    margin: 3rem 1rem 1rem 1rem;
+  }
+
+  a {
+    display: inline-block;
+    margin: 1rem 1rem 0 1rem;
+
+    h3 {
+      color: var(--l-color);
+      font-size: 1.05rem;
+      font-weight: 500;
+      margin: 0;
+    }
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}
