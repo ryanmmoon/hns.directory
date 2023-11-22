@@ -42,7 +42,7 @@
     </div>
 
     <div class="links">
-      <p>Source Code: <NuxtLink to="https://github.com/ryanmmoon/dir.ectory" target="_BLANK">Github</NuxtLink></p>
+      <p>Source Code: <NuxtLink to="https://github.com/ryanmmoon/hns.directory" target="_BLANK">Github</NuxtLink></p>
       <p>Supported by: <NuxtLink to="https://github.com/opensystm/handshake-micro-grants" target="_BLANK">Open Systems</NuxtLink></p>
     </div>
 
